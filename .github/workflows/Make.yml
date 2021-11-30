@@ -10,7 +10,7 @@ on:
       LIBRARY_BRANCH:
         description: 'LIBRARY_BRANCH'
         required: true
-        default: 'twrp-9.0'
+        default: 'twrp-10.0-deprecated'
       LIBRARY_TYPE:
         description: 'LIBRARY_TYPE'
         required: false
